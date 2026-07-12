@@ -15,8 +15,14 @@ import { useWeatherData } from "../hooks/useWeatherData";
 import { getBackgroundClass } from "../utils/weatherUtils";
 
 function Home() {
-  const { weather, forecast, loading, error, handleSearch, getCurrentLocation } =
-    useWeatherData();
+  const {
+    weather,
+    forecast,
+    loading,
+    error,
+    handleSearch,
+    getCurrentLocation,
+  } = useWeatherData();
 
   const backgroundClass = getBackgroundClass(weather);
 

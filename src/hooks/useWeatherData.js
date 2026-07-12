@@ -40,7 +40,7 @@ export const useWeatherData = () => {
         },
         () => {
           setError("Unable to get location. Please search for a city.");
-        }
+        },
       );
     } else {
       setError("Geolocation not supported. Please search for a city.");

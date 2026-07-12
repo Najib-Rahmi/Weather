@@ -2,7 +2,10 @@ import SearchBar from "./SearchBar";
 
 const WeatherActions = ({ onSearch, loading, onUseCurrentLocation }) => (
   <>
-    <SearchBar onSearch={onSearch} loading={loading} />
+    <SearchBar
+      onSearch={onSearch}
+      loading={loading}
+    />
 
     <button
       onClick={onUseCurrentLocation}

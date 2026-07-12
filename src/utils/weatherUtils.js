@@ -1,4 +1,7 @@
-import { DEFAULT_WEATHER_THEME, WEATHER_THEMES } from "../constants/weatherThemes";
+import {
+  DEFAULT_WEATHER_THEME,
+  WEATHER_THEMES,
+} from "../constants/weatherThemes";
 
 export const getWeatherMain = (weather) => weather?.weather?.[0]?.main;
 
