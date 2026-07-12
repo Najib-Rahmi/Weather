@@ -78,6 +78,26 @@ A modern, responsive React-based weather application built with Vite, featuring 
 - View current weather and 5-day forecast
 - The app remembers your last searched city
 
+## App States
+
+The app includes several user-visible states that are worth showcasing:
+
+- Initial load / default screen
+- Search results with current weather
+- 5-day forecast panel
+- Error state when a city cannot be found
+- Loading state while fetching data
+
+## Screenshots
+
+Place screenshots in the [docs/screenshots](docs/screenshots) folder and reference them here once captured.
+
+- [Initial view](docs/screenshots/README.md)
+- [Weather result](docs/screenshots/README.md)
+- [Forecast view](docs/screenshots/README.md)
+- [Error state](docs/screenshots/README.md)
+- [Mobile view](docs/screenshots/README.md)
+
 ## Project Structure
 
 ```
