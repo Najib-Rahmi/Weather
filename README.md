@@ -151,6 +151,6 @@ The app includes several important UI states:
 
 **Curious yet?**
 
-[**WeatherApp.vercel.app**](https://WeatherApp.vercel.app)
+[**WeatherApp2026.vercel.app**](https://WeatherApp2026.vercel.app)
 
 </div>
