@@ -5,19 +5,19 @@ A modern, responsive weather application built with React and Vite. It fetches l
 ## Sun
 
 <p align="center">
-  <img src="public/screenshots/SunBackground.png" alt="SunBackground" width="700"/>
+  <img src="public/Screenshots/SunBackground.png" alt="SunBackground" width="700"/>
 </p>
 
 ## Clouds
 
 <p align="center">
-  <img src="public/screenshots/CloudsBackground.png" alt="CloudsBackground" width="700"/>
+  <img src="public/Screenshots/CloudsBackground.png" alt="CloudsBackground" width="700"/>
 </p>
 
 ## Rain
 
 <p align="center">
-  <img src="public/screenshots/RainBackground.png" alt="RainBackground" width="700"/>
+  <img src="public/Screenshots/RainBackground.png" alt="RainBackground" width="700"/>
 </p>
 
 ## Snow
