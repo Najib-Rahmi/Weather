@@ -34,22 +34,20 @@ A modern, responsive React-based weather application built with Vite, featuring 
 
    ```bash
    git clone https://github.com/Najib-Rahmi/Weather.git
-   cd weather
+   cd Weather
    ```
 
 2. **Install dependencies**
 
    ```bash
-   pnpm install
+   npm install
    ```
 
 3. **Get an API key**
-
    - Sign up at [OpenWeather](https://openweathermap.org/api)
    - Get your free API key
 
 4. **Environment setup**
-
    - Create a `.env` file in the root directory
    - Add your API key:
      ```
@@ -59,7 +57,7 @@ A modern, responsive React-based weather application built with Vite, featuring 
 5. **Run the development server**
 
    ```bash
-   pnpm run dev
+   npm run dev
    ```
 
    The app will be available at `http://localhost:5173`
