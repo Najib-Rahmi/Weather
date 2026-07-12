@@ -23,7 +23,7 @@ A modern, responsive weather application built with React and Vite. It fetches l
 ## Snow
 
 <p align="center">
-  <img src="public/screenshots/SnowBackground.png" alt="SnowBackground" width="700"/>
+  <img src="public/Screenshots/SnowBackground.png" alt="SnowBackground" width="700"/>
 </p>
 
 ## Features
